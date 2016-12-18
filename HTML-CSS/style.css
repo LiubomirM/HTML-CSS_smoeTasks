@@ -1,0 +1,93 @@
+#wrapper {
+    font-family: "Arial Narrow";
+    background-color: #ECE8E7
+}
+#header {
+    background-color: #24B7ED;
+    padding-left: 12%;
+}
+#siteLogo {
+    width: 200px;
+}
+#header span {
+    margin-left: 40px;
+    position: absolute;
+    top: 52px;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+#pageBody {
+    padding-left: 12%;
+    width: 50%
+}
+
+#menu {
+    background:linear-gradient(to top, #C0BEBF, #E2E2E4);
+}
+#menu ul {
+    text-align: center;
+}
+#menu ul li {
+    display: inline-block;
+    font-size: 2em;
+    padding: 10px 50px 10px 50px;
+}
+#menu ul li a{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #615F65;
+}
+
+aside {
+    background-color: #D4D6D3;
+    position: absolute;
+    top: 200px;
+    left: 72%;
+    border: 2px solid #D3D5C0;
+    padding: 20px;
+}
+.asideImg {
+    height: 20px;
+    width: 20px
+}
+#asideButton {
+    margin: 10px;
+    width: 120px;
+    height: 40px;
+    font-weight: bold;
+    border: none;
+    background: linear-gradient(to top, #AAC646, #CEF197);
+}
+
+h1 {font-size: 2em; font-weight: bold; padding-top: 25px; margin-bottom: 25px;
+    color: #135772;
+}
+h2 {font-size: 1.5em; font-weight: bold; margin-top: 15px; margin-bottom: 15px;
+    color: #3B3743;
+}
+h3 {font-size: 1.2em; font-weight: bold; margin-top: 10px;
+    color: #3B3743;
+}
+p {
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+a {
+    color: #3B3743;
+}
+
+.dateTime {
+    margin-top: 5px
+}
+
+footer {
+    background-color: #434343;
+    width: auto; height: 120px
+}
+footer p {
+    padding-left: 12%;
+    color: #FFFFFF
+}
